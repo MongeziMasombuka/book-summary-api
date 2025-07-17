@@ -125,6 +125,7 @@ server.js       -> App entry point
 ## ✅ TODO
 
 * [ ] Add Swagger/OpenAPI documentation
+* [ ] Add GET /api/summaries query parameters to support filters, pagination, or sorting
 * [ ] Add unit tests with Jest or Mocha
 * [ ] Deploy to Render, Railway, or Vercel
 
